@@ -1,1 +1,6 @@
 interpreter
+*/__pycache__
+__pycache__
+.vscode
+data
+playground
